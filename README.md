@@ -1,7 +1,10 @@
 # Astro Starter Kit: Basics
 
+```sh
+npm create astro@latest -- --template basics
+```
 
-[![Open in netlify](https://myubnkdev.netlify.app/)]
+[![Open in netlify](/public/netlify.svg)](https://myubnkdev.netlify.app/)
 
 > 🧑‍🚀 **Michael portfolio** 
 
