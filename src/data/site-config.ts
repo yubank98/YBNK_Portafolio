@@ -57,6 +57,11 @@ const siteConfig: SiteConfig = {
             text: 'Projects',
             href: '/projects',
             image: '/projects.svg'
+        },
+        {
+            text: 'Experience',
+            href: '/blog',
+            image: '/blog.svg'
         }
     ],
     footerNavLinks: [
