@@ -2,7 +2,7 @@
 import siteConfig from '../data/site-config';
 ---
 
-<header class="w-full max-w-3xl mx-auto mb-12 sm:mb-16">
+<header class="typewriter w-full max-w-3xl mx-auto mb-12 sm:mb-16">
     {
         siteConfig.logo && siteConfig.logo?.src ? (
             <a href="/">
@@ -10,7 +10,7 @@ import siteConfig from '../data/site-config';
             </a>
         ) : (
             <a class="font-serif text-2xl leading-tight font-medium text-theme-foreground sm:text-4xl" href="/">
-                {siteConfig.title}
+                <h1>{siteConfig.title}</h1>
             </a>
         )
     }
