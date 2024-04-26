@@ -4,7 +4,9 @@
 npm create astro@latest -- --template basics
 ```
 
-[![Open in netlify](/public/netlify.svg)](https://myubnkdev.netlify.app/)
+<div style="width: 10px; height: 10px;">
+  [![Open in netlify](/public/netlify.svg)](https://myubnkdev.netlify.app/)
+</div>
 
 > 🧑‍🚀 **Michael portfolio** 
 
