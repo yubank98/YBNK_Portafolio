@@ -1,7 +1,7 @@
 ---
 title: Programmer – Software Development (project nebula)
 excerpt: Internal sales and inventory management system
-publishDate: 'june 2022'
+publishDate: 'June 2021'
 tags:
   - University
   - works

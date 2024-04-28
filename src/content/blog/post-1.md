@@ -1,7 +1,7 @@
 ---
 title: Data Analyst - Software Development Intern
 excerpt: Creation of python functions linked to google actions spreadsheets and recruiting applications along with data cleansing.
-publishDate: 'Jun 2021'
+publishDate: 'august 2022'
 tags:
   - Works
   - python
