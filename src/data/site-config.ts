@@ -18,12 +18,6 @@ export type Hero = {
     actions?: Link[];
 };
 
-export type Subscribe = {
-    title?: string;
-    text?: string;
-    formUrl: string;
-};
-
 export type SiteConfig = {
     logo?: Image;
     title: string;
@@ -34,7 +28,6 @@ export type SiteConfig = {
     footerNavLinks?: Link[];
     socialLinks?: Link[];
     hero?: Hero;
-    subscribe?: Subscribe;
     postsPerPage?: number;
     projectsPerPage?: number;
 };
@@ -44,8 +37,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'Portfolio and blog by Michael Yubank',
     description: 'Astro.js and Tailwind CSS',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/asset/Portfolio-image.png',
+        alt: 'Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
         {
@@ -78,7 +71,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'Instagram',
-            href: 'https://instagram.com/',
+            href: 'https://www.instagram.com/y_b_n_k/',
             image: '/instagram.svg'
         },
         {
