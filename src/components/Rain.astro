@@ -1,0 +1,22 @@
+---
+---
+<div class="rain"></div>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const rainContainer = document.querySelector('.rain');
+
+        if (rainContainer) {
+            const numberOfDrops = 60; // Ajusta el número de gotas según sea necesario
+            for (let i = 0; i < numberOfDrops; i++) {
+                const drop = document.createElement('div');
+                drop.classList.add('drop');
+                drop.style.left = `${Math.random() * 100}vw`;
+                drop.style.animationDuration = `${Math.random() * 2 + 1}s`;
+                drop.style.animationDelay = `${Math.random() * 2}s`;
+                rainContainer.appendChild(drop);
+            }
+        } else {
+            console.error('No se encontró el contenedor de lluvia.');
+        }
+    });
+</script>
