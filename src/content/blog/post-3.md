@@ -18,7 +18,7 @@ seo:
     alt: FactorK logo
 ---
 
-![FactorK logo](/public/factorK.png)
+![FactorK logo](/factorK.png)
 
 We strive to be your main nearshore software technology partner. We will support your digital strategy and solve your software development needs by providing you with the best nearshore talent through staff augmentation, dedicated teams, and consulting.
 
