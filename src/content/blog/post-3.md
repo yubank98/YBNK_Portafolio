@@ -1,11 +1,13 @@
 ---
 title: Full Stack Developer - Intern
-excerpt: Creation of python functions linked to google actions spreadsheets and recruiting applications along with data cleansing.
+excerpt: Development of internal systems for human resources management, including employee records, payroll processing, performance evaluations, recruitment tracking, and benefits administration. Integration with third-party services and automated reporting for data-driven decision-making.
 publishDate: 'May 22 2024'
 tags:
   - Works
   - Angular
+  - React
   - .Net
+  - C#
   - JS
   - Sql
   - Azure
@@ -18,35 +20,41 @@ seo:
 
 ![FactorK logo](/public/factorK.png)
 
-
-Bearsoft is your A.I.-assisted technology recruitment partner, find and engage your qualified candidates in less time than the industry standard, Quickly fill out open positions, smooth your recruitment processes, and onboard your developer engineers in days instead of weeks.
+We strive to be your main nearshore software technology partner. We will support your digital strategy and solve your software development needs by providing you with the best nearshore talent through staff augmentation, dedicated teams, and consulting.
 
 ## Features
 
-1. **ETL Process**
-  - Extraction of data from Json's and excel sheets in google cloud to transform and store them (ETL) in an assigned format.
+1. **Data Integration and Processing**
 
-2. **Data Transformation**
-  - Data transformation for clean and graphical display to users.
+   - Extraction and processing of data using C# - .NET Core from various sources, including APIs and databases.
+
+2. **Front-End Development**
+
+   - Creation of interactive web interfaces and dashboards using Angular JS and React for enhanced user experience.
 
 3. **Agile Scrum Methodology**
-  - Agile Scrum methodology (Jira).
+
+   - Project management and task tracking following Agile Scrum methodology using Jira.
 
 4. **Repository Management**
-  - Repository Management with GitLab.
 
-5. **Error handling and monitoring**
-  - Implementation of error handling mechanisms and monitoring processes.
+   - Version control and collaborative development using Azure DevOps repositories.
+
+5. **Error Handling and Monitoring**
+
+   - Implementation of logging, error handling, and monitoring tools to ensure system reliability and performance.
 
 6. **Documentation**
-  - Documentation of code and its processes for reference and transparency.
+
+   - Comprehensive code and process documentation for system transparency and future reference.
 
 7. **Technology Selection**
-  - Selection and proposal of the most optimal technologies for solving complex problems.
 
-8. **Technologies Used**
-  - Utilization of Google Cloud services, including Google Drive and Cloud Spreadsheets, along with Python libraries such as Pandas, NumPy, Matplotlib, SciPy, and Seaborn.
+   - Evaluation and selection of optimal technologies to address complex business challenges effectively.
 
+8. **Cloud and Containerization**
+
+   - Deployment of applications using Azure Container Docker for scalable and secure cloud solutions.
 
 ## Tecnologies
 
@@ -59,3 +67,5 @@ Bearsoft is your A.I.-assisted technology recruitment partner, find and engage y
 4. Workbench
 
 5. Azure Container Docker
+
+6. React
