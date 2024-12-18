@@ -1,6 +1,6 @@
 ---
 title: 'PokeDex: Pokemon web App'
-description: PokeDex is a Personal project inspired by the Pokédex! Dive into the Pokémon universe through my own version of the Pokédex, created with React and powered by the PokeAPI. 
+description: PokeDex is a Personal project inspired by the Pokédex! Dive into the Pokémon universe through my own version of the Pokédex, created with React and powered by the PokeAPI.
 publishDate: 'February 2024'
 seo:
   image:
@@ -10,9 +10,8 @@ seo:
 
 ![Project preview](/project-1.png)
 
-
 **Project Overview:**
-Pokedex is a personal web project that unites my passion for programming and the geek world. 
+Pokedex is a personal web project that unites my passion for programming and the geek world. You can view the deployed version of this web at [https://poke-banner.netlify.app/](https://poke-banner.netlify.app/).
 
 ## Objectives
 
@@ -29,7 +28,7 @@ Pokedex is a personal web project that unites my passion for programming and the
 
 2. **Grid Cards:**
 
-- The pokemon will be displayed in mini cards which have an image of the pokemon along with their types, colors and number assigned in the official pokedex. 
+- The pokemon will be displayed in mini cards which have an image of the pokemon along with their types, colors and number assigned in the official pokedex.
 
 3. **Card Information:**
 
@@ -38,5 +37,4 @@ Pokedex is a personal web project that unites my passion for programming and the
 ## Technology Stack
 
 - Frontend: React ![react_logo](/react.svg) for responsive-platform web app development.
-- Backend: Firebase for real-time
 - Database: Api Pokedex
